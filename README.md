@@ -11,5 +11,5 @@ IDE: Eclipse
 Tool: Maven
 
 Run Program: At com.parser.xml package,Java file name is XmlParserApplication.java. Right click on that file and run as a java application.
-To see output at browser link is http://localhost:8080/Parsing/{id}.e.g.id is 42007 and 8080 is default port number.
-For better view use incognito window.
+To see output at browser link is http://localhost:8080/Parsing/{id}.e.g.id is 42007 and 8080 is default port number.For better view use incognito window.
+
